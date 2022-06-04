@@ -1,0 +1,102 @@
+
+/* defult-css */
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* responsive-css */
+
+@media all and (max-width: 992px){
+    .about-text-left {
+        margin-top: 50px;
+    }
+    .about-text-left .lead {
+        font-size: 19px;
+    
+    }
+}
+	
+
+@media all and (max-width: 768px) {
+    .slider-caption .btn {
+        padding: 10px 0px;
+        font-size: 20px;
+    }
+    .slider-caption .form-control {
+        padding: 14px 0px;
+    }
+    .slider-caption .form-control {
+        padding: 0;
+        font-size: 14px;
+        text-align: center;
+    }
+    .slider-caption .btn {
+        background: #5ba533;
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    .mb-4 {
+        margin-bottom: 0 !important;
+    }
+    .about-text-left .lead {
+        font-size: 15px;
+        line-height: 2.0rem;
+    }
+    .rounded {
+        border-radius: .25rem !important;
+        width: 50%;
+    }
+    .mb-5 {
+        margin-bottom: 0 !important;
+    }
+    .pricing-item ul li {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 15px;
+        color: #777;
+    }
+    .pricing-item {
+        background-color: #fff;
+        padding: 28px;
+        box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+        border-radius: 5px;
+        text-align: center;
+    }
+    .pricing-item-button a {
+        border-color: #657be0;
+        border-width: 1px;
+        color: #657be0;
+        padding: 5px 10px;
+        font-size: 15px;
+        box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
+    }
+    .lead {
+        font-size: 1.0rem;
+        font-weight: 300;
+    }
+    .h2, h2 {
+        font-size: calc(1.0rem + .9vw);
+    }
+    .form-control-lg {
+        min-height: calc(1.5em + 1rem + 2px);
+        padding: .5rem 1rem;
+        border-radius: .3rem;
+    }
+}
+
+@media all and (max-width: 576px) {
+    .slider-caption h2 {
+    margin: 20px 0;
+    font-size: 30px;
+    }
+    .slider-caption h4 {
+        margin: 25px 0;
+    }
+}
+
+
+@media (min-width: 576px) {
+
+ }
